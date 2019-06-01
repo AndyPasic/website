@@ -46,9 +46,20 @@ pygmentscodefencesguesssyntax = true
     # Custom JS
     custom_js = []
 
+    [[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 4
+    url = "https://www.linkedin.com/in/andrewpasic/"
+
     [languages]
         [languages.en]
             languagename = "English"
+
+            [[languages.en.menu.main]]
+            name = "Home"
+            weight = 1
+            url = "/"
 
             [[languages.en.menu.main]]
             name = "About Me"
