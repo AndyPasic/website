@@ -1,6 +1,6 @@
 baseURL = "http://www.andrewpasic.com/"
 languageCode = "en-us"
-title = "Andy Pasic"
+title = "Recognizing the impact of attitude"
 theme = "hugo-coder"
 publishDir = "../www/"
 
@@ -17,7 +17,7 @@ pygmentscodefencesguesssyntax = true
 #disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Andrew Pasic"
+    author = "Andy Pasic"
     description = "Andy Pasic's personal website"
     keywords = "blog,tinkerer,personal"
     info = "Business & Technology Liason"
@@ -42,6 +42,6 @@ pygmentscodefencesguesssyntax = true
 
     # Custom CSS
     custom_css = []
-    
+
     # Custom JS
     custom_js = []
