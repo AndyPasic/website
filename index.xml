@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recognizing the impact of attitude</title>
-    <link>/</link>
+    <link>andypasic.github.io/website/</link>
     <description>Recent content on Recognizing the impact of attitude</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Jun 2019 08:43:05 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="andypasic.github.io/website/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Digital Helmsman</title>
-      <link>/about/</link>
+      <link>andypasic.github.io/website/about/</link>
       <pubDate>Sat, 01 Jun 2019 08:43:05 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>andypasic.github.io/website/about/</guid>
       <description>I started my career as a digital grease monkey, doing the grunt work for companies that had not yet automated the more tedious tasks supporting their business. Getting to see how things run under the hood gave me a unique perspective of how these companies operate. My broad experience includes working for global companies such as Microsoft and Amazon and extends to local business and non-profit organizations such as the Washington State Dairy Federation.</description>
     </item>
     
