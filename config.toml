@@ -1,4 +1,4 @@
-baseURL = "http://www.andrewpasic.com/"
+baseURL = "andypasic.github.io/website"
 languageCode = "en-us"
 title = "Recognizing the impact of attitude"
 theme = "hugo-coder"
