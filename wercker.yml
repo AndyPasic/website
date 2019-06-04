@@ -1,0 +1,19 @@
+
+box: debian
+build:
+  steps:
+
+  - install-packages:
+    packages: git ssh-client
+
+  - script:
+        name: prep
+        code: bash prep.sh
+
+#  - arjen/hugo-build:
+#        version: "0.55"
+#        theme: hugo-code
+
+#  - script:
+#        name: deploy
+#        code: bash deploy.sh
