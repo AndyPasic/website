@@ -1,5 +1,8 @@
 #!/bin/bash
 
+git config --global user.email "ajpasic@gmail.com"
+git config --global user.name "AndyPasic"
+
 cd public
 git add --all
 git commit -m "Publishing to gh-pages"
