@@ -50,6 +50,12 @@ pygmentscodefencesguesssyntax = true
     icon = "fab fa-linkedin"
     weight = 4
     url = "https://www.linkedin.com/in/andrewpasic/"
+    
+    [[params.social]]
+    name = "GitHub"
+    icon = "fab fa-github"
+    weight = 5
+    url = "https://github.com/AndyPasic"
 
     [languages]
         [languages.en]
