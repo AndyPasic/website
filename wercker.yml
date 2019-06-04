@@ -10,10 +10,10 @@ build:
         name: prep
         code: bash prep.sh
 
-#  - arjen/hugo-build:
-#        version: "0.55"
-#        theme: hugo-code
+  - arjen/hugo-build:
+        version: "0.55"
+        theme: hugo-code
 
-#  - script:
-#        name: deploy
-#        code: bash deploy.sh
+  - script:
+        name: deploy
+        code: bash deploy.sh
