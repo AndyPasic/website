@@ -12,7 +12,7 @@ build:
 
   - arjen/hugo-build:
         version: "0.55.6"
-        theme: hugo-code
+        theme: hugo-coder
         config: config.toml
 
   - script:
