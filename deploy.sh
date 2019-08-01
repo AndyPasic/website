@@ -1,7 +1,7 @@
 #!/bin/bash
 
-git config --global user.email "ajpasic@gmail.com"
-git config --global user.name "AndyPasic"
+git config --global user.email "$GIT_EMAIL"
+git config --global user.name "$GIT_ACCOUNT"
 
 cd public
 git add --all
