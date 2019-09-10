@@ -13,8 +13,8 @@ Throughout the roles at these organizations I have worn a number of hats includi
 *  Business consultant
 *  Subject matter expert
 *  Team lead
-*  Content manager
-*  Release manager
+*  Technical Writer
+*  Content release manager
 *  Operations manager
 
 My core values are Integrity, Creativity, and Resourcefulness.
